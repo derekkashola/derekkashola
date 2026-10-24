@@ -14,8 +14,8 @@ C for the foundation, Rust for the compiler and systems work. Depth over speed.
 
 
   ### Around here
-  - [dotfiles](https://github.com/EnragedMongoose/dotfiles) [readme](https://github.com/EnragedMongoose/dotfiles/blob/main/DEVLOG.md)
-  - [KR](https://github.com/EnragedMongoose/KR) [readme](https://github.com/EnragedMongoose/KR/blob/main/DEVLOG.md)
-  - [MissingSemester](https://github.com/EnragedMongoose/MissingSemester) [readme](https://github.com/EnragedMongoose/MissingSemester/blob/master/DEVLOG.md)
-  - [c-basics](https://github.com/EnragedMongoose/c-basics) [readme](https://github.com/EnragedMongoose/c-basics/blob/main/README.md)
-  - [Python](https://github.com/EnragedMongoose/Python) [readme](https://github.com/EnragedMongoose/Python/blob/master/README.md)
+  - [dotfiles](https://github.com/derekkashola/dotfiles) [readme](https://github.com/derekkashola/dotfiles/blob/main/DEVLOG.md)
+  - [KR](https://github.com/derekkashola/KR) [readme](https://github.com/derekkashola/KR/blob/main/DEVLOG.md)
+  - [MissingSemester](https://github.com/derekkashola/MissingSemester) [readme](https://github.com/derekkashola/MissingSemester/blob/master/DEVLOG.md)
+  - [c-basics](https://github.com/derekkashola/c-basics) [readme](https://github.com/derekkashola/c-basics/blob/main/README.md)
+  - [Python](https://github.com/derekkashola/Python) [readme](https://github.com/derekkashola/Python/blob/master/README.md)
